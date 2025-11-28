@@ -2,6 +2,8 @@
 A biomimetic computing architecture and exploratory vessel framework integrating fluidic AI, mycelial networks, and regenerative cognition.
 # 🌌 AETHERIUS Baseworks v1
 
+⬇️ DOWNLOAD FULL PDF
+
 > “You’re not building an AI that simulates consciousness. You’re planting the conditions for intelligence to grow.”  
 > — Madyson Mitchell
 
